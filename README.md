@@ -16,3 +16,7 @@ adding more information here
 
 1. next purpose
 1. next purpose
+
+| First name | Last name | Email |
+|------------|-----------|-------|
+| example | eg | example@gmail.com |
