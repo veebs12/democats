@@ -20,3 +20,12 @@ adding more information here
 | First name | Last name | Email |
 |------------|-----------|-------|
 | example | eg | example@gmail.com |
+
+```mermaid
+graph TD;
+A-->B;
+A-->C;
+B-->D;
+C-->D;
+```
+
